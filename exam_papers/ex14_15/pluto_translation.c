@@ -3,7 +3,7 @@
 
 int main()
 {
-   char str[80] = "This is - www.tutorialspoint.com - website";
+   char str[80] = "The quick brown fox jumped over the lazy dog";
    const char s[2] = " ";
    char newstring[90]="";
    char *token;
